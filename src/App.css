@@ -269,8 +269,16 @@ html {
     margin-top: -17rem;
   }
 
+  .header__img {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
   .header__title {
     font-size: 2.8rem;
+    margin-top: -5em;
   }
 
   .header__paragraph {
